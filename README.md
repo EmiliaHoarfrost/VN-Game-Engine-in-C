@@ -1,11 +1,10 @@
 # VN-Game-Engine-in-C
+![Alt text](../main/terminal_screenshot.png)
 
-https://raw.github.com/EmiliaHoarfrost/VN-Game-Engine-in-C/main/terminal_screenshot.png
-https://github.com/EmiliaHoarfrost/VN-Game-Engine-in-C/blob/main/terminal_screenshot.png
 
-Prototyped a VN game engine in C (as a beginner)
-Since it is terminal-based, it allows you to use ASCII art for your sprite needs, which has a great retro feel
+Prototyped a **VN game engine in C** (as a beginner).
+Since it is terminal-based, it allows you to use **ASCII art** for your sprite needs, which has a great retro feel.
 
-You can add colors in the terminal output by using stuff like "\x1b[31m"
-I think they're called escape code sequences?
+You can add colors in the terminal output by using stuff like "\x1b[31m".
+I think they're called **escape code sequences**?
 https://gist.github.com/abritinthebay/d80eb99b2726c83feb0d97eab95206c4
