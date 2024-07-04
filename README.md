@@ -1,4 +1,7 @@
 # VN-Game-Engine-in-C
+
+https://raw.github.com/EmiliaHoarfrost/VN-Game-Engine-in-C/main/terminal_screenshot.png
+
 Prototyped a VN game engine in C (as a beginner)
 Since it is terminal-based, it allows you to use ASCII art for your sprite needs, which has a great retro feel
 
